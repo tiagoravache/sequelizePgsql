@@ -1,11 +1,11 @@
 module.exports = {
   dialect: 'postgres',
   host: 'localhost',
-  username: 'ravache',
-  password: 'r4v4ch3',
-  database: 'node-api',
+  username: 'usuario',
+  password: 'senha',
+  database: 'gdgtalk',
   define: {
     timestamps: true,
-    underscore: true
+    underscored: true
   }
 }
